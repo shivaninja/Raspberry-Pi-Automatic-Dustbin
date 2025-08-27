@@ -14,10 +14,10 @@ Software Used:
   2. Raspberry Pi libraries such as RPi.GPIO, time, beebotte.
   3. BeeBotte Platform
      
-"""import RPi.GPIO as GPIO"""
+""import RPi.GPIO as GPIO""
 
-"""import time"""
+""import time""
 
-"""from beebotte import * """
+""from beebotte import * ""
 
  
