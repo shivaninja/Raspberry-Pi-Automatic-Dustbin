@@ -12,6 +12,7 @@ Hardware Used:
   3. HC-SR-04 UltraSonic distance measurement sensor
   4. GPIO pins as output.
 
+
 Software Used:
   1. Python (Installed Python)
   2. Raspberry Pi libraries such as RPi.GPIO, time, beebotte.
