@@ -13,11 +13,13 @@ Software Used:
   1. Python (Installed Python)
   2. Raspberry Pi libraries such as RPi.GPIO, time, beebotte.
   3. BeeBotte Platform
+
+Importing Libraries:
      
-""import RPi.GPIO as GPIO""
+" import RPi.GPIO as GPIO "
 
-""import time""
+" import time "
 
-""from beebotte import * ""
+" from beebotte import * "
 
  
