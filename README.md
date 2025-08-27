@@ -10,7 +10,7 @@ Hardware Used:
   1. Raspberry Pi
   2. Tower Pro/Tower-Pro-MG-995 Servo Motor
   3. HC-SR-04 UltraSonic distance measurement sensor
-  4. GPIO pins as output.
+  4. GPIO pins as output. 
 
 
 Software Used:
