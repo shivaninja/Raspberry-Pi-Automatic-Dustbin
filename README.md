@@ -1,6 +1,6 @@
 # Raspberry-Pi-Automatic-Dustbin.
 
-This project is of automatic dustbin.
+This project is of automatic dustbin System.
 
 This Project uses automatic sensor that Responds to Proximity and automatically opens the Lid of the dustbin.
 
